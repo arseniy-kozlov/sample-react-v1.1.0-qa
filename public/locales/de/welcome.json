@@ -2,5 +2,7 @@
   "title": "Du hast es geschafft!",
   "test": "Übersetzungstest",
   "test2": "Übersetzungstest 2",
-  "withMistake": "Diese Nachricht hat einen Tippfehler im Wort {number}."
+  "withMistake": "Diese Nachricht hat einen Tippfehler im Wort {number}.",
+  "withPlaceholder": "Diese Nachricht hat einen Platzhalter: {placeholder}.",
+  "withPlaceholderAndMistake": "Diese Meldung hat einen Platzhalter: {placeholder} und einen Tippfehler im Wort {number}."
 }
