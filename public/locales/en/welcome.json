@@ -5,7 +5,7 @@
   "withMistake": "This message has a typo in {number} word.",
   "withPlaceholder": "This message has a placeholder: {placeholder}.",
   "withPlaceholderAndMistake": "This message has a placeholder: {placeholder} and a typo in {number} word.",
-  "withTypo": "Thi message has a typo.",
-  "withGrammarMistake": "This message have a grammar mistake.",
-  "withTypoAndGrammarMistake": "Thi message have a grammar mistake and a typo."
+  "withTypo": "This message has a typo.",
+  "withGrammarMistake": "This message has a grammar mistake.",
+  "withTypoAndGrammarMistake": "This message has a grammar mistake and a typo."
 }
