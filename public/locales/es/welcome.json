@@ -1,8 +1,5 @@
 {
   "title": "¡Lo hiciste!",
   "test": "prueba de traducción",
-  "test2": "prueba de traducción 2",
-  "withMistake": "Este mensaje tiene un error tipográfico en {number} palabra.",
-  "withPlaceholder": "Este mensaje tiene un marcador de posición: {placeholder}.",
-  "withPlaceholderAndMistake": "Este mensaje tiene un marcador de posición: {placeholder} y un error tipográfico en {number} palabra."
+  "test2": "prueba de traducción 2"
 }
