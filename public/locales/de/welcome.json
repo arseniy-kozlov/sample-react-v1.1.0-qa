@@ -1,5 +1,6 @@
 {
   "title": "Du hast es geschafft!",
   "test": "Übersetzungstest",
-  "test2": "Übersetzungstest 2"
+  "test2": "Übersetzungstest 2",
+  "withMistake": "Diese Nachricht hat einen Tippfehler im Wort {number}."
 }
