@@ -4,5 +4,5 @@
   "test2": "Übersetzungstest 2",
   "withMistake": "Diese Nachricht hat einen Tippfehler im Wort {number}.",
   "withPlaceholder": "Diese Nachricht hat einen Platzhalter: {placeholder}.",
-  "withPlaceholderAndMistake": "Diese Meldung hat einen Platzhalter: {placeholder} und einen Tippfehler im Wort {number}."
+  "withPlaceholderAndMistake": "Diese Nachricht hat einen Platzhalter: {placeholder} und einen Tippfehler im Wort {number}."
 }
