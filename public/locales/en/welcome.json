@@ -1,8 +1,5 @@
 {
   "title": "You did it!",
   "test": "translation test",
-  "test2": "translation test 2",
-  "withMistake": "This message has a typo in {number} word.",
-  "withPlaceholder": "This message has a placeholder: {placeholder}.",
-  "withPlaceholderAndMistake": "This message has a placeholder: {placeholder} and a typo in {number} word."
+  "test2": "translation test 2"
 }
