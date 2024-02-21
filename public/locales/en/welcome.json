@@ -4,5 +4,5 @@
   "test2": "translation test 2",
   "withMistake": "This message has a typo in {number} word.",
   "withPlaceholder": "This message has a placeholder: {placeholder}.",
-  "withPlaceholderAndMistake": "This mesage has a placeholder: {placeholder} and a typo in {number} word."
+  "withPlaceholderAndMistake": "This message has a placeholder: {placeholder} and a typo in {number} word."
 }
