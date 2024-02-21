@@ -3,6 +3,8 @@ config:
   locales:
     - en
     - de
+    - es
   directories:
     - public/locales
-  format: 2
+  modes:
+    - autocorrection
