@@ -1,5 +1,6 @@
 {
   "title": "¡Lo hiciste!",
   "test": "prueba de traducción",
-  "test2": "prueba de traducción 2"
+  "test2": "prueba de traducción 2",
+  "withMistake": "Este mensaje tiene un error tipográfico en {number} palabra."
 }

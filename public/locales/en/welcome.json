@@ -2,5 +2,5 @@
   "title": "You did it!",
   "test": "translation test",
   "test2": "translation test 2",
-  "withMistake": "This mesage has typo in {number} word."
+  "withMistake": "This message has a typo in {number} word."
 }
