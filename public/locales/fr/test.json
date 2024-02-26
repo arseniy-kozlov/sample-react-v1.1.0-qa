@@ -1,3 +1,3 @@
 {
-  "hello": "Bonjour {world}"
+  "last": "Le dernier message : {message}"
 }
