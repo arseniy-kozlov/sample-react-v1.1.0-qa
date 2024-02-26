@@ -1,3 +1,4 @@
 {
-  "title": "Hello {name}"
+  "title": "Hello {name}!",
+  "subtitle": "It works!"
 }
