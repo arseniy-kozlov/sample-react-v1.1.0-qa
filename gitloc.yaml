@@ -5,8 +5,5 @@ config:
     - de
     - es
     - fr
-    - it
-    - ja
-    - ko
   directories:
     - public/locales
