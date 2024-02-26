@@ -1,11 +1,3 @@
 {
-  "title": "¡Lo hiciste!",
-  "test": "prueba de traducción",
-  "test2": "prueba de traducción 2",
-  "withMistake": "Este mensaje tiene un error tipográfico en {number} palabra.",
-  "withPlaceholder": "Este mensaje tiene un marcador de posición: {placeholder}.",
-  "withPlaceholderAndMistake": "Este mensaje tiene un marcador de posición: {placeholder} y un error tipográfico en {number} palabra.",
-  "withTypo": "Este mensaje tiene un error tipográfico.",
-  "withGrammarMistake": "Este mensaje tiene un error gramatical.",
-  "withTypoAndGrammarMistake": "Este mensaje tiene un error gramatical y una errata."
+  "title": "¡Lo hiciste!"
 }
