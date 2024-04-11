@@ -3,5 +3,8 @@
   "description.reactLink": "documents",
   "sports.climbing": "Escalade",
   "sports.cycling": "Cyclisme",
-  "sports.running": "La course à pied"
+  "sports.running": "La course à pied",
+  "sports.swimming": "Natation",
+  "sports.surfing": "Surf",
+  "sports.yoga": "Yoga"
 }

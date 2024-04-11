@@ -6,6 +6,9 @@
   "sports": {
     "climbing": "Escalada",
     "cycling": "Ciclismo",
-    "running": "Ejecutar"
+    "running": "Ejecutar",
+    "swimming": "Natación",
+    "surfing": "Surf",
+    "yoga": "Yoga"
   }
 }
