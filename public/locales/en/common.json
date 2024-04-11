@@ -2,5 +2,10 @@
   "description": {
     "text": "Edit <0>{{fileName}}</0> and save to reload. See <1>docs</1> for more.",
     "reactLink": "docs"
+  },
+  "sports": {
+    "climbing": "Climbing",
+    "cycling": "Cycling",
+    "running": "Running"
   }
 }

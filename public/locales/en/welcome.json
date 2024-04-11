@@ -1,4 +1,6 @@
 {
   "title": "You did it!",
-  "application": "Application"
+  "application": "Application",
+  "subtitle": "This is very important part of our system - UI for manual translation. You can see here all the strings that are used in the application. You can edit them, add new ones, delete them, and even export them to a file. You can also import a file with translations. You can also see the statistics of the translations.",
+  "complete": "Complete the task"
 }
