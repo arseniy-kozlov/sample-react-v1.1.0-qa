@@ -3,6 +3,6 @@
   "application": "Anmeldung",
   "subtitle": "Dies ist ein sehr wichtiger Teil unseres Systems - die Benutzeroberfläche für die manuelle Übersetzung.",
   "complete": "Erledigen Sie die Aufgabe",
-  "cancel": "Abbrechen",
-  "next": "Weiter zum nächsten Schritt"
+  "next": "Weiter zum nächsten Schritt",
+  "back": "Zurückgehen"
 }

@@ -3,6 +3,6 @@
   "application": "Application",
   "subtitle": "Il s'agit d'une partie très importante de notre système - l'interface utilisateur pour la traduction manuelle.",
   "complete": "Terminer la tâche",
-  "cancel": "Annuler",
-  "next": "Passer à l'étape suivante"
+  "next": "Passer à l'étape suivante",
+  "back": "Retourner"
 }
