@@ -1,4 +1,6 @@
 {
   "title": "Vous l'avez fait !",
-  "application": "Application"
+  "application": "Application",
+  "subtitle": "Il s'agit d'une partie très importante de notre système - l'interface utilisateur pour la traduction manuelle. Vous pouvez voir ici toutes les chaînes de caractères utilisées dans l'application. Vous pouvez les modifier, en ajouter de nouvelles, les supprimer et même les exporter dans un fichier. Vous pouvez également importer un fichier contenant des traductions. Vous pouvez également consulter les statistiques des traductions.",
+  "complete": "Terminer la tâche"
 }

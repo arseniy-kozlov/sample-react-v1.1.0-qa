@@ -2,5 +2,10 @@
   "description": {
     "text": "Edita <0>{{fileName}}</0> y guárdalo para recargarlo. Consulte los <1>documentos</1> para obtener más información.",
     "reactLink": "docs"
+  },
+  "sports": {
+    "climbing": "Escalada",
+    "cycling": "Ciclismo",
+    "running": "Ejecutar"
   }
 }

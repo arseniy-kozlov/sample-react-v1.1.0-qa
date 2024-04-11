@@ -1,4 +1,6 @@
 {
   "title": "¡Lo hiciste!",
-  "application": "Aplicación"
+  "application": "Aplicación",
+  "subtitle": "Esta es una parte muy importante de nuestro sistema - UI para la traducción manual. Aquí puede ver todas las cadenas que se utilizan en la aplicación. Puedes editarlas, añadir nuevas, borrarlas e incluso exportarlas a un archivo. También puede importar un archivo con traducciones. También puedes ver las estadísticas de las traducciones.",
+  "complete": "Completar la tarea"
 }
