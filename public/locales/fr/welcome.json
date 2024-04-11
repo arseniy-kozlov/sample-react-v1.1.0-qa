@@ -2,5 +2,7 @@
   "title": "Vous l'avez fait !",
   "application": "Application",
   "subtitle": "Il s'agit d'une partie très importante de notre système - l'interface utilisateur pour la traduction manuelle.",
-  "complete": "Terminer la tâche"
+  "complete": "Terminer la tâche",
+  "cancel": "Annuler",
+  "next": "Passer à l'étape suivante"
 }
