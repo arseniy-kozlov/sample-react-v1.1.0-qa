@@ -2,5 +2,7 @@
   "title": "You did it!",
   "application": "Application",
   "subtitle": "This is very important part of our system - UI for manual translation.",
-  "complete": "Complete the task"
+  "complete": "Complete the task",
+  "cancel": "Cancel",
+  "next": "Go to the next step"
 }

@@ -5,10 +5,9 @@
   },
   "sports": {
     "climbing": "Climbing",
-    "cycling": "Cycling",
-    "running": "Running",
-    "swimming": "Swimming",
     "surfing": "Surfing",
-    "yoga": "Yoga"
+    "kitesurfing": "Kitesurfing",
+    "windsurfing": "Windsurfing",
+    "diving": "Diving"
   }
 }
