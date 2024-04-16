@@ -1,11 +1,17 @@
 {
-  "description.text": "Modifiez <0>{{fileName}}</0> et enregistrez pour recharger. Voir <1>docs</1> pour plus d'informations.",
-  "description.reactLink": "documents",
-  "sports.climbing": "Escalade",
-  "sports.surfing": "Surf",
-  "sports.kitesurfing": "Kitesurf",
-  "sports.windsurfing": "Planche à voile",
-  "sports.diving": "Plongée",
-  "sports.skiing": "Ski",
-  "sports.snowboarding": "Snowboarding"
+  "description": {
+    "text": "Modifiez <0>{{fileName}}</0> et enregistrez pour recharger. Voir <1>docs</1> pour plus d'informations.",
+    "reactLink": "documents"
+  },
+  "sports": {
+    "climbing": "Escalade",
+    "surfing": "Surf",
+    "kitesurfing": "Kitesurf",
+    "windsurfing": "Planche à voile",
+    "diving": "Plongée",
+    "skiing": "Ski",
+    "snowboarding": "Snowboarding",
+    "skating": "Patinage",
+    "cycling": "Cyclisme"
+  }
 }
